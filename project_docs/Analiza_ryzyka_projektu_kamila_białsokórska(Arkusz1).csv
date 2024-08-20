@@ -1,0 +1,10 @@
+Nr;Rodzaj ryzyka;Waga     (1-8);Prawdopodobie?stwo ryzyka                             (1-4);Stopie? ryzyka;Dzia?ania minimalizuj?ce ryzyko;Waga     (1-8);Prawdopodobie?stwo ryzyka                             (1-4);Stopie? ryzyka
+1;Ryzyko projektu;;;;;;;
+;Opó?nienia w dostarczeniu bibliotek lub frameworków;1;4;4;;1;2;2
+;;;;;;0;4;0
+;Problemy z konfiguracj? serwera;4;4;16;;3;4;12
+;Procedury archiwizacyjne i reinstalacyjne systemu nie b?d? gotowe na czas testów;8;4;32;;7;4;28
+;Procedury archiwizacyjne i reinstalacyjne systemu mog? nie by? gotowe na czas rozpocz?cia testów.;4;4;16;;4;3;12
+2;Ryzyko funkcjonalne;;;;;;;
+;Brak ostatecznych kryteriów akceptacji systemu;8;1;8;;;;
+;Brak definicji konfiguracji systemu do testów;4;4;16;;;;
